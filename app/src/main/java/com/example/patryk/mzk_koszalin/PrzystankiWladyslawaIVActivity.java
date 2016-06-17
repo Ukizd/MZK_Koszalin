@@ -40,7 +40,7 @@ public class PrzystankiWladyslawaIVActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
-                Intent i = new Intent(PrzystankiWladyslawaIVActivity.this, GodzinyJazdyWladyslawaIV.class);
+                Intent i = new Intent(PrzystankiWladyslawaIVActivity.this, WybotDniRozkladu.class );
 
                 switch (position) {
 

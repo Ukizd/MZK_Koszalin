@@ -6,11 +6,15 @@ package com.example.patryk.mzk_koszalin;
 public class Godziny {
 
     String godzina;
-    String minuta;
+    String minutaDniPowszednie;
+    String minutaSobota;
+    String minutaSwieta;
 
-    public Godziny(String godzina, String minuta) {
+    public Godziny(String godzina, String minutaDniPowszednie, String minutaSobota, String minutaSwieta) {
         this.godzina = godzina;
-        this.minuta = minuta;
+        this.minutaDniPowszednie = minutaDniPowszednie;
+        this.minutaSobota = minutaSobota;
+        this.minutaSwieta = minutaSwieta;
     }
 
     public String getGodzina() {
@@ -22,11 +26,27 @@ public class Godziny {
         this.godzina = godzina;
     }
 
-    public String getMinuta() {
-        return minuta;
+    public String getMinutaDniPowszednie() {
+        return minutaDniPowszednie;
     }
 
-    public void setMinuta(String minuta) {
-        this.minuta = minuta;
+    public void setMinutaDniPowszednie(String minutaDniPowszednie) {
+        this.minutaDniPowszednie = minutaDniPowszednie;
+    }
+
+    public String getMinutaSobota() {
+        return minutaSobota;
+    }
+
+    public void setMinutaSobota(String minutaSobota) {
+        this.minutaSobota = minutaSobota;
+    }
+
+    public String getMinutaSwieta() {
+        return minutaSwieta;
+    }
+
+    public void setMinutaSwieta(String minutaSwieta) {
+        this.minutaSwieta = minutaSwieta;
     }
 }

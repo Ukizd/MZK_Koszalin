@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NiekloniceWiesDniPowszednie" >
+        <item>"      13.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+    </string-array>
+    
+    <string-array name="NiekloniceWiesSoboty">
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+
+    </string-array>
+    <string-array name="NiekloniceWiesNiedziele">
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+
+    </string-array>
+    <string-array name="NiekloniceDniPowszednie" >
+        <item>"      13.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+        <item>"      14.24     "</item>
+    </string-array>
+
+    <string-array name="NiekloniceSoboty">
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+        <item>"      13.24     "</item>
+
+    </string-array>
+    <string-array name="NiekloniceNiedziele">
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+        <item>"      15.24     "</item>
+
+    </string-array>
+</resources>

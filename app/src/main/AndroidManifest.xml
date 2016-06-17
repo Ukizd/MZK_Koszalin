@@ -15,12 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Kierunek4Lini" />
+        <activity android:name=".Kierunek4Linii" />
         <activity android:name=".Kierunek3Linii" />
         <activity android:name=".Kierunek15Linii" />
         <activity android:name=".PrzystankiWladyslawaIVActivity" />
         <activity android:name=".PrzystankiNiekloniceActivity" />
-        <activity android:name=".GodzinyJazdyWladyslawaIV"></activity>
+        <activity android:name=".GodzinyJazdyWladyslawaIV" />
+        <activity android:name=".WybotDniRozkladu"></activity>
     </application>
 
 </manifest>
