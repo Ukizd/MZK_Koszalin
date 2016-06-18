@@ -8,6 +8,9 @@ import android.widget.Button;
 
 public class WybotDniRozkladu extends AppCompatActivity {
 
+    private int linia;
+    private int kierunek;
+    private int przystanek;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -17,7 +20,9 @@ public class WybotDniRozkladu extends AppCompatActivity {
         Button soboty = (Button) findViewById(R.id.buttonSoboty);
         Button niedzieleISwieta = (Button) findViewById(R.id.buttonNiedzieleISwieta);
 
-         final int przystanek = getIntent().getIntExtra("Pierwszy", 0);
+        przystanek = getIntent().getIntExtra("Przystanek", 0);
+        linia = getIntent().getIntExtra("Linia", 0);
+        kierunek = getIntent().getIntExtra("Kierunek", 0);
 
         //String przystaneczek = String.valueOf(przystanek);
 
@@ -25,9 +30,13 @@ public class WybotDniRozkladu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                // Toast.makeText(getApplicationContext(), String.valueOf(przystanek),Toast.LENGTH_SHORT).show();
-                Intent i = new Intent(WybotDniRozkladu.this, GodzinyJazdyWladyslawaIV.class);
-                i.putExtra("JakieDni", 0);
+                Intent i = new Intent(WybotDniRozkladu.this, GodzinyJazdy.class);
+
+                i.putExtra("Linia", linia);
+                i.putExtra("Kierunek", kierunek);
                 i.putExtra("Przystanek", przystanek);
+                i.putExtra("JakieDni", 0);
+
                 startActivity(i);
             }
         });
@@ -35,9 +44,11 @@ public class WybotDniRozkladu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                // Toast.makeText(getApplicationContext(), String.valueOf(przystanek),Toast.LENGTH_SHORT).show();
-                Intent i = new Intent(WybotDniRozkladu.this, GodzinyJazdyWladyslawaIV.class);
-                i.putExtra("JakieDni", 1);
+                Intent i = new Intent(WybotDniRozkladu.this, GodzinyJazdy.class);
+                i.putExtra("Linia", linia);
+                i.putExtra("Kierunek", kierunek);
                 i.putExtra("Przystanek", przystanek);
+                i.putExtra("JakieDni", 1);
                 startActivity(i);
             }
         });
@@ -45,9 +56,11 @@ public class WybotDniRozkladu extends AppCompatActivity {
         niedzieleISwieta.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(WybotDniRozkladu.this, GodzinyJazdyWladyslawaIV.class);
-                i.putExtra("JakieDni", 2);
+                Intent i = new Intent(WybotDniRozkladu.this, GodzinyJazdy.class);
+                i.putExtra("Linia", linia);
+                i.putExtra("Kierunek", kierunek);
                 i.putExtra("Przystanek", przystanek);
+                i.putExtra("JakieDni", 2);
                 startActivity(i);
             }
         });

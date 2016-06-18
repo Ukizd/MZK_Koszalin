@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ChalubinskiegoCentrumEdukacjiDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+    <string-array name="ChalubinskiegoCentrumEdukacjiSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+
+    </string-array>
+    <string-array name="ChalubinskiegoCentrumEdukacjiNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+
+    </string-array>
+
+    <string-array name="ChalubinskiegoSzpitalDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="ChalubinskiegoSzpitalSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="ChalubinskiegoSzpitalNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="PilsudskiegoZubrzyckiegoDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="PilsudskiegoZubrzyckiegoSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="PilsudskiegoZubrzyckiegoNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="OrlatLwowskichSawickiejDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="OrlatLwowskichSawickiejSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="OrlatLwowskichSawickiejNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="JanaPawlaIIPolitechnikaDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIPolitechnikaSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIPolitechnikaNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+</resources>

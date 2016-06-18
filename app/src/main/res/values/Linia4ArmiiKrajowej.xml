@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="WladyslawaIVPetlaDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+    <string-array name="WladyslawaIVPetlaSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+
+    </string-array>
+    <string-array name="WladyslawaIVPetlaNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+
+    </string-array>
+
+    <string-array name="WladyslawaIVKwiatkowskiegoDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="WladyslawaIVKwiatkowskiegoSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="WladyslawaIVKwiatkowskiegoNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="JanaPawlaIIWladyslawaIVDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIWladyslawaIVSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIWladyslawaIVNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="JanaPawlaIIJagoszewskiegoDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIJagoszewskiegoSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIJagoszewskiegoNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="JanaPawlaIIFalataDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIFalataSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="JanaPawlaIIFalataNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+</resources>

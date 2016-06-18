@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="WladyslaIV_Linia3" >
+        <item>Niekłonice / Wieś</item>
+        <item>Niekłonice</item>
+        <item>Niekłonice Działki / Pętla</item>
+        <item>Niekłonice Działki / Działki II</item>
+        <item>Niekłonice / Drukarnia</item>
+    </string-array>
+    <string-array name="Niekłonice_Linia3" >
+        <item>Jamneńska / Filtrowa MWiK </item>
+        <item>Władysława IV / Pętla</item>
+        <item>Władysława IV / Kwiatkowskiego</item>
+        <item>Władysława IV / Sikorskiego</item>
+        <item>Władysława IV / Kutrzeby</item>
+    </string-array>
+    <string-array name="WładysławaIV_Linia4" >
+        <item>Armii Krajowej / Dworzec PKP</item>
+        <item>Krakusa i Wandy / Zwycięstwa</item>
+        <item>Lechicka / Kolejowa</item>
+        <item>Słowiańska / Lechicka</item>
+        <item>Słowiańska / MEC</item>
+    </string-array>
+    <string-array name="ArmiiKrajowejBank_Linia4" >
+        <item>Władysława IV / Pętla</item>
+        <item>Władysława IV / Kwiatkowskiego</item>
+        <item>Jana Pawła II / Władysława IV</item>
+        <item>Jana Pawła II / Jagoszewskiego</item>
+        <item>Jana Pawła II / Fałata</item>
+    </string-array>
+    <string-array name="BoWiD_Linia15" >
+        <item>Chałubińskiego / Centrum Edukacji</item>
+        <item>Chałubińskiego / Szpital</item>
+        <item>Piłsudskiego / Zubrzyckiego</item>
+        <item>Orląt Lwowskich / Sawickiej</item>
+        <item>Jana Pawła II / Politechnika</item>
+    </string-array>
+    <string-array name="Chałubińskiego_Linia15" >
+        <item>Łukasiewicza / NordGlass</item>
+        <item>Łukasiewicza / ROMEX</item>
+        <item>Bohaterów Warszawy / GIPO</item>
+        <item>BoWiD / Kospel</item>
+        <item>BoWiD / Royal Greenland</item>
+    </string-array>
+</resources>

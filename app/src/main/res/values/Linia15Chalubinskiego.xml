@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="LukasiewiczaNordGlassDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+    <string-array name="LukasiewiczaNordGlassSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+
+    </string-array>
+    <string-array name="LukasiewiczaNordGlassNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+
+    </string-array>
+
+    <string-array name="LukasiewiczaROMEXDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="LukasiewiczaROMEXSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="LukasiewiczaROMEXNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="BochaterowWarszawyGIPODniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="BochaterowWarszawyGIPOSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="BochaterowWarszawyGIPONiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="BoWiDKospelDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="BoWiDKospelSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="BoWiDKospelNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="BoWiDRoyalGreenlandDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="BoWiDRoyalGreenlandSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="BoWiDRoyalGreenlandNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+</resources>

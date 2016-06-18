@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="JamnenskaDniPowszednie" >
+        <item>"                             13:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+    </string-array>
+    <string-array name="JamnenskaWiesSoboty">
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+
+    </string-array>
+    <string-array name="JamnenskaNiedziele">
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+
+    </string-array>
+
+    <!--<string-array name="WladyslawaIVPetlaDniPowszednie" >-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="WladyslawaIVPetlaSoboty">-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="WladyslawaIVPetlaNiedziele">-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="WladyslawaIVKwiatkowskiegoDniPowszednie" >-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+        <!--<item>"                             14:24     "</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="WladyslawaIVKwiatkowskiegoSoboty">-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+        <!--<item>"                             13:24     "</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="WladyslawaIVKwiatkowskiegoNiedziele">-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+        <!--<item>"                             15:24     "</item>-->
+    <!--</string-array>-->
+
+    <string-array name="WladyslawaIVSikorskiegoDniPowszednie" >
+        <item>"                             13:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+    </string-array>
+    <string-array name="WladyslawaIVSikorskiegoSoboty">
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+    </string-array>
+    <string-array name="WladyslawaIVSikorskiegoNiedziele">
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+    </string-array>
+
+    <string-array name="WladyslawaIVKutrzebyDniPowszednie" >
+        <item>"                             13:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+        <item>"                             14:24     "</item>
+    </string-array>
+    <string-array name="WladyslawaIVKutrzebySoboty">
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+        <item>"                             13:24     "</item>
+    </string-array>
+    <string-array name="WladyslawaIVKutrzebyNiedziele">
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+        <item>"                             15:24     "</item>
+    </string-array>
+</resources>

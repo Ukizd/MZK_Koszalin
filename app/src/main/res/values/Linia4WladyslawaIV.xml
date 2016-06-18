@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ArmiiKrajowejPKPDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+    <string-array name="ArmiiKrajowejPKPSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+
+    </string-array>
+    <string-array name="ArmiiKrajowejPKPNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+
+    </string-array>
+
+    <string-array name="KrakusaIWandyZwyciestwaDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="KrakusaIWandyZwyciestwaSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="KrakusaIWandyZwyciestwaNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="LechickaKolejowaDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="LechickaKolejowaSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="LechickaKolejowaNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="SlowianskaLechickaDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="SlowianskaLechickaSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="SlowianskaLechickaNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+
+    <string-array name="SlowianskaMECDniPowszednie" >
+        <item>"      13:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+        <item>"      14:24     "</item>
+    </string-array>
+    <string-array name="SlowianskaMECSoboty">
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+        <item>"      13:24     "</item>
+    </string-array>
+    <string-array name="SlowianskaMECNiedziele">
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+        <item>"      15:24     "</item>
+    </string-array>
+</resources>
