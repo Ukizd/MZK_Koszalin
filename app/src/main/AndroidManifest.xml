@@ -21,7 +21,8 @@
         <activity android:name=".PrzystankiWladyslawaIVActivity" />
         <activity android:name=".PrzystankiNiekloniceActivity" />
         <activity android:name=".GodzinyJazdyWladyslawaIV" />
-        <activity android:name=".WybotDniRozkladu"></activity>
+        <activity android:name=".WybotDniRozkladu" />
+        <activity android:name=".WyborDniRozkladuKierunekNieklonice"></activity>
     </application>
 
 </manifest>

@@ -23,16 +23,19 @@ public class MainActivity extends AppCompatActivity {
     public void wyborCzwartejLinii(View view) {
 
         Intent i = new Intent(this, Kierunek4Linii.class);
+        //i.putExtra("0",0);
         startActivity(i);
     }
 
     public void wyborTrzeciejLinii(View view) {
         Intent i = new Intent(this, Kierunek3Linii.class);
+       // i.putExtra("1", 1);
         startActivity(i);
     }
 
     public void wyborPietnastejLinii(View view) {
         Intent i = new Intent(this, Kierunek15Linii.class);
+       // i.putExtra("2", 2);
         startActivity(i);
     }
 }
